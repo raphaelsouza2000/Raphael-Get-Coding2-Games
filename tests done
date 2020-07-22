@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CSS</title>
+        <style>
+            .names {
+                font-size: 16pt;
+                text-align: center;
+                background-color: blue;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="names">
+            <p>Ruby</p>
+            <p>Scratch</p>
+        </div>
+    </body>
+</html>
+
+
+
+page 24:
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+    <body>
+        <div>
+            <p>Ruby</p>
+            <p>Scratch</p>
+        </div>
+    </body>
+</html>
+
+
+page 23:
+<!DOCTYPE html>
+<html>
+    <head>  
+        <title>Noughts and Crosses</title>
+    </head>
+    <body>
+        <p>Do you want to play Noughts and Crosses?</p>
+        Click here to play!<br/>
+    </body>
+</html>
+
