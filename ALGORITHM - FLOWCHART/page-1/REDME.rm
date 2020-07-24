@@ -1,0 +1,53 @@
+
+
+
+-ALGORITHM AND FLOWCHART:
+
+
+///////////////////////////////////////////////////////////////////////////////////////
+-visualg comandos:
+
+VAR numero1 : INTEIRO
+
+ESCREVA ("ola! mundo! digite uma numero")
+LEIA (NUMERO1)
+
+ESCREVA ("VC digitou esse numero: ", numero1, "!!!")
+
+----------------------------------------------------------------------------------------------
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////
+
+COMMANDS PSEUDOCODE:
+
+START PROGRAM
+
+DISPLAY (" Ola! mundo! digite um numero:")
+READ (NUMERO1)
+DISPLAY (" Voce digitou = ",numero1, "!!!")
+
+
+END PROGRAM
+
+
+//****************************************************************************
+ebook-logica-de-programacao-para-iniciantes -estudar esse primeiro
+
+//**************************************************************************
+
+
+pg-2
+
+pg-3
+
+-- example of an ALGORITHM to sum two numbers:
+
+       1- receive first number 1
+       2- receive second number 2
+       3- add number 1 + number 2 = result
+       4- put in result
+       5- show the answer
+
+-- transform in Pseudocode:
+
