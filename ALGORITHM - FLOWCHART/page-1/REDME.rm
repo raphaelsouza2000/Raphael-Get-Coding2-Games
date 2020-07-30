@@ -11,9 +11,9 @@ VAR numero1 : INTEIRO
 
 ESCREVA ("ola! mundo! digite uma numero")
 LEIA (NUMERO1)
-
+LIMPATELA // commando para limpa a tela
 ESCREVA ("VC digitou esse numero: ", numero1, "!!!")
-
+ESCREVAL ("") // commando para pula uma linha
 ----------------------------------------------------------------------------------------------
 
 
@@ -24,7 +24,7 @@ COMMANDS PSEUDOCODE:
 START PROGRAM
 
 DISPLAY (" Ola! mundo! digite um numero:")
-READ (NUMERO1)
+INPUT (NUMERO1)
 DISPLAY (" Voce digitou = ",numero1, "!!!")
 
 
@@ -50,4 +50,60 @@ pg-3
        5- show the answer
 
 -- transform in Pseudocode:
+
+pg-4
+
+-- why is it good to learn how to program?
+
+-- Aprender programação ajuda muito a forma como as pessoas pensam
+-- Quando uma pessoa aprende programar, ela desenvolve uma nova forma de
+pensar
+-- Todas as decisões passam a ser tomadas levando em consideração
+pensamentos sistêmicos e racionais que convergem para o bom-senso da razão
+humana
+
+pg-5
+
+-- Na verdade, da mesma forma como ler, escrever e fazer cálculos básicos,
+programação é a nova disciplina básica para alfabetização
+-- Agricultura,
+manufatura, logística, marketing, agropecuária, medicina, etc. Atividades onde
+você menos imagina têm software!
+
+pg-6
+
+-- Diferente do que muitos pensam, programação não é um monte de código que
+poucos conseguem entender
+-- No fundo, programar é ensinar uma máquina a
+resolver problemas. Sem perceber, todos nós resolvemos problemas e tomamos
+decisões o tempo todo
+
+pg-7
+
+-- Aliás neste
+ebook os códigos vão ser todos em português, mas é muito importante, muito
+importante mesmo, aprender inglês para ser um bom programador
+
+pg-8
+
+-- Se você é iniciante e não sabe nada de programação, procure uma linguagem de
+programação que te ajude a aprender lógica de programação
+
+pg-9
+
+-- O mercado muda, a linguagem "da moda" hoje pode não estar tão em alta
+amanhã. Pense nisso. Por isso sempre que você decidir aprender uma linguagem
+nova de programação, pense no seu objetivo de curto, médio e longo prazo
+-- A decisão do que aprender deve ser sua, baseada no objetivo que você quer
+alcançar
+
+
+
+
+
+
+
+
+
+
 
