@@ -97,6 +97,42 @@ nova de programação, pense no seu objetivo de curto, médio e longo prazo
 -- A decisão do que aprender deve ser sua, baseada no objetivo que você quer
 alcançar
 
+pg-10
+
+-- é muito importante aprender inglês se você pretende se
+profissionalizar em programação
+
+pg-11
+
+-- O primeiro passo para se aprender programação não envolve computador,
+envolve educar a sua mente a explicar em detalhes os passos necessários para
+executar uma determinada tarefa
+-- aprender a modelar um
+roteiro que explica quando tomar
+decisões e quando realizar
+determinadas tarefas, esse roteiro é
+chamado de "algoritmo"
+
+pg-12
+
+-- Algoritmo Multiplicação de números positivos
+Declaração de variáveis
+numero1, numero2, resultado, contador: Inteiro
+Início
+leia(numero1)
+leia(numero2)
+resultado <- 0
+contador <- 0
+Enquanto contador < numero2 Faça
+resultado <- resultado + numero1
+contador <- contador + 1
+Fim-Enquanto
+escreva(resultado)
+Fim
+
+pg-13
+
+--
 
 
 
